@@ -1,0 +1,251 @@
+order_id,order_date,region,category,product,quantity,unit_price,unit_cost,customer_id,payment_method
+ORD0239,2025-01-01,West,Office Supplies,Printer Paper,6,16.99,9.0,C1016,Debit Card
+ORD0020,2025-01-02,South,Electronics,Webcam,5,59.99,31.0,C1033,Credit Card
+ORD0136,2025-01-02,East,Home,Coffee Mug,5,14.99,5.0,C1047,Cash
+ORD0094,2025-01-07,West,Home,Coffee Mug,7,14.99,5.0,C1053,Credit Card
+ORD0087,2025-01-10,South,Electronics,Webcam,1,59.99,31.0,C1023,Credit Card
+ORD0027,2025-01-11,South,Electronics,USB-C Hub,4,34.99,18.0,C1038,Credit Card
+ORD0203,2025-01-11,West,Electronics,Webcam,6,59.99,31.0,C1011,PayPal
+ORD0001,2025-01-13,South,Home,Desk Lamp,5,29.99,14.0,C1016,Debit Card
+ORD0055,2025-01-13,East,Electronics,Webcam,3,59.99,31.0,C1048,Cash
+ORD0070,2025-01-13,West,Electronics,Keyboard,1,39.99,20.0,C1016,Credit Card
+ORD0233,2025-01-15,North,Office Supplies,Desk Organizer,6,18.99,8.0,C1060,PayPal
+ORD0088,2025-01-16,North,Home,Desk Lamp,4,29.99,14.0,C1013,Debit Card
+ORD0013,2025-01-17,East,Electronics,Keyboard,6,39.99,20.0,C1026,Credit Card
+ORD0245,2025-01-19,North,Home,Storage Box,5,22.99,10.0,C1013,Debit Card
+ORD0234,2025-01-20,West,Electronics,Keyboard,5,39.99,20.0,C1059,Debit Card
+ORD0201,2025-01-22,West,Electronics,Webcam,7,59.99,31.0,C1002,Credit Card
+ORD0237,2025-01-25,West,Office Supplies,Notebook Pack,4,12.99,5.5,C1027,Credit Card
+ORD0085,2025-01-26,East,Office Supplies,Desk Organizer,5,18.99,8.0,C1025,Debit Card
+ORD0110,2025-01-27,West,Office Supplies,Desk Organizer,5,18.99,8.0,C1056,Credit Card
+ORD0179,2025-02-01,West,Home,Desk Lamp,8,29.99,14.0,C1055,Cash
+ORD0079,2025-02-02,East,Home,Water Bottle,7,19.99,7.5,C1027,Cash
+ORD0181,2025-02-03,East,Home,Water Bottle,3,19.99,7.5,C1018,Cash
+ORD0217,2025-02-03,West,Home,Coffee Mug,6,14.99,5.0,C1007,PayPal
+ORD0185,2025-02-04,North,Electronics,Webcam,2,59.99,31.0,C1054,Credit Card
+ORD0024,2025-02-05,West,Home,Storage Box,3,22.99,10.0,C1009,Debit Card
+ORD0059,2025-02-05,West,Office Supplies,Pen Set,5,9.99,3.5,C1023,PayPal
+ORD0135,2025-02-05,West,Electronics,Keyboard,5,39.99,20.0,C1050,PayPal
+ORD0119,2025-02-06,East,Office Supplies,Desk Organizer,1,18.99,8.0,C1011,PayPal
+ORD0043,2025-02-07,North,Office Supplies,Pen Set,1,9.99,3.5,C1030,Credit Card
+ORD0151,2025-02-07,East,Office Supplies,Desk Organizer,8,18.99,8.0,C1023,Cash
+ORD0092,2025-02-08,East,Office Supplies,Desk Organizer,4,18.99,8.0,C1007,Credit Card
+ORD0142,2025-02-08,East,Home,Water Bottle,8,19.99,7.5,C1051,PayPal
+ORD0250,2025-02-12,West,Home,Coffee Mug,7,14.99,5.0,C1006,Debit Card
+ORD0112,2025-02-13,West,Electronics,USB-C Hub,4,34.99,18.0,C1008,Debit Card
+ORD0097,2025-02-14,West,Office Supplies,Desk Organizer,5,18.99,8.0,C1057,Debit Card
+ORD0069,2025-02-17,East,Office Supplies,Pen Set,4,9.99,3.5,C1044,Debit Card
+ORD0166,2025-02-19,South,Office Supplies,Notebook Pack,4,12.99,5.5,C1057,Cash
+ORD0214,2025-02-22,North,Electronics,Webcam,6,59.99,31.0,C1046,Debit Card
+ORD0204,2025-02-24,West,Electronics,Webcam,4,59.99,31.0,C1028,Credit Card
+ORD0163,2025-02-25,North,Home,Coffee Mug,4,14.99,5.0,C1031,PayPal
+ORD0051,2025-02-27,South,Home,Desk Lamp,2,29.99,14.0,C1057,Credit Card
+ORD0160,2025-02-28,South,Home,Coffee Mug,8,14.99,5.0,C1005,Debit Card
+ORD0165,2025-03-01,North,Home,Storage Box,3,22.99,10.0,C1003,PayPal
+ORD0131,2025-03-04,South,Home,Storage Box,1,22.99,10.0,C1041,Debit Card
+ORD0050,2025-03-08,West,Electronics,USB-C Hub,5,34.99,18.0,C1011,Cash
+ORD0219,2025-03-08,West,Office Supplies,Printer Paper,2,16.99,9.0,C1020,PayPal
+ORD0175,2025-03-09,South,Electronics,Wireless Mouse,1,24.99,12.5,C1023,PayPal
+ORD0016,2025-03-12,North,Office Supplies,Desk Organizer,8,18.99,8.0,C1006,Credit Card
+ORD0078,2025-03-12,West,Home,Desk Lamp,3,29.99,14.0,C1015,Debit Card
+ORD0033,2025-03-13,East,Home,Storage Box,7,22.99,10.0,C1012,Cash
+ORD0192,2025-03-15,South,Electronics,Keyboard,7,39.99,20.0,C1005,Credit Card
+ORD0072,2025-03-17,North,Office Supplies,Desk Organizer,1,18.99,8.0,C1058,Cash
+ORD0236,2025-03-18,East,Office Supplies,Desk Organizer,7,18.99,8.0,C1008,Debit Card
+ORD0222,2025-03-21,North,Electronics,Keyboard,2,39.99,20.0,C1019,Credit Card
+ORD0115,2025-03-22,North,Office Supplies,Notebook Pack,4,12.99,5.5,C1012,Debit Card
+ORD0075,2025-03-23,East,Home,Storage Box,8,22.99,10.0,C1029,Debit Card
+ORD0159,2025-03-26,West,Home,Coffee Mug,5,14.99,5.0,C1059,PayPal
+ORD0200,2025-03-31,South,Office Supplies,Printer Paper,3,16.99,9.0,C1025,PayPal
+ORD0107,2025-04-02,South,Electronics,USB-C Hub,5,34.99,18.0,C1001,PayPal
+ORD0221,2025-04-03,West,Office Supplies,Pen Set,4,9.99,3.5,C1022,Debit Card
+ORD0249,2025-04-06,West,Office Supplies,Pen Set,8,9.99,3.5,C1045,PayPal
+ORD0138,2025-04-07,West,Office Supplies,Pen Set,4,9.99,3.5,C1037,Debit Card
+ORD0048,2025-04-15,West,Home,Coffee Mug,5,14.99,5.0,C1033,PayPal
+ORD0080,2025-04-16,North,Office Supplies,Notebook Pack,7,12.99,5.5,C1025,Cash
+ORD0053,2025-04-18,North,Electronics,USB-C Hub,4,34.99,18.0,C1043,PayPal
+ORD0014,2025-04-19,West,Electronics,USB-C Hub,8,34.99,18.0,C1026,Debit Card
+ORD0025,2025-04-19,East,Office Supplies,Printer Paper,4,16.99,9.0,C1046,Cash
+ORD0003,2025-04-22,North,Electronics,Wireless Mouse,4,24.99,12.5,C1033,Debit Card
+ORD0004,2025-04-23,East,Home,Storage Box,8,22.99,10.0,C1038,Credit Card
+ORD0057,2025-04-24,West,Electronics,Webcam,4,59.99,31.0,C1053,PayPal
+ORD0058,2025-04-25,South,Office Supplies,Desk Organizer,1,18.99,8.0,C1043,Cash
+ORD0189,2025-04-25,East,Home,Storage Box,2,22.99,10.0,C1023,Credit Card
+ORD0145,2025-04-27,North,Home,Coffee Mug,2,14.99,5.0,C1028,Credit Card
+ORD0183,2025-04-27,West,Office Supplies,Printer Paper,7,16.99,9.0,C1022,Cash
+ORD0028,2025-04-28,North,Electronics,Wireless Mouse,2,24.99,12.5,C1058,PayPal
+ORD0207,2025-05-01,East,Home,Water Bottle,2,19.99,7.5,C1010,Debit Card
+ORD0023,2025-05-03,North,Office Supplies,Pen Set,1,9.99,3.5,C1016,Credit Card
+ORD0042,2025-05-03,South,Electronics,USB-C Hub,5,34.99,18.0,C1026,PayPal
+ORD0172,2025-05-05,South,Electronics,USB-C Hub,3,34.99,18.0,C1051,Credit Card
+ORD0015,2025-05-07,West,Office Supplies,Desk Organizer,5,18.99,8.0,C1048,Cash
+ORD0062,2025-05-11,West,Home,Water Bottle,1,19.99,7.5,C1046,Credit Card
+ORD0199,2025-05-11,North,Electronics,Keyboard,5,39.99,20.0,C1021,Credit Card
+ORD0060,2025-05-14,East,Electronics,Wireless Mouse,3,24.99,12.5,C1038,Credit Card
+ORD0176,2025-05-16,West,Electronics,Keyboard,1,39.99,20.0,C1009,Credit Card
+ORD0056,2025-05-17,North,Home,Water Bottle,3,19.99,7.5,C1051,Cash
+ORD0104,2025-05-19,South,Home,Storage Box,5,22.99,10.0,C1017,Credit Card
+ORD0230,2025-05-20,South,Electronics,Keyboard,8,39.99,20.0,C1058,Cash
+ORD0154,2025-05-21,North,Electronics,Webcam,1,59.99,31.0,C1037,Cash
+ORD0106,2025-05-22,South,Electronics,Webcam,5,59.99,31.0,C1007,PayPal
+ORD0174,2025-05-22,East,Electronics,Wireless Mouse,3,24.99,12.5,C1009,Debit Card
+ORD0029,2025-05-23,South,Electronics,Keyboard,8,39.99,20.0,C1014,Cash
+ORD0124,2025-05-23,West,Office Supplies,Printer Paper,3,16.99,9.0,C1038,Cash
+ORD0045,2025-05-26,East,Electronics,USB-C Hub,3,34.99,18.0,C1029,Credit Card
+ORD0197,2025-05-26,East,Office Supplies,Notebook Pack,8,12.99,5.5,C1034,Credit Card
+ORD0077,2025-05-27,East,Office Supplies,Notebook Pack,4,12.99,5.5,C1018,PayPal
+ORD0247,2025-05-27,North,Electronics,Keyboard,6,39.99,20.0,C1056,PayPal
+ORD0009,2025-05-29,South,Electronics,Keyboard,2,39.99,20.0,C1055,Credit Card
+ORD0102,2025-05-31,South,Electronics,Wireless Mouse,4,24.99,12.5,C1026,PayPal
+ORD0147,2025-05-31,West,Office Supplies,Notebook Pack,6,12.99,5.5,C1024,Debit Card
+ORD0064,2025-06-03,West,Home,Desk Lamp,5,29.99,14.0,C1043,PayPal
+ORD0226,2025-06-08,South,Electronics,Keyboard,8,39.99,20.0,C1058,PayPal
+ORD0246,2025-06-08,West,Electronics,USB-C Hub,7,34.99,18.0,C1053,PayPal
+ORD0184,2025-06-10,East,Office Supplies,Notebook Pack,7,12.99,5.5,C1021,PayPal
+ORD0105,2025-06-11,South,Home,Water Bottle,2,19.99,7.5,C1048,Debit Card
+ORD0127,2025-06-11,North,Office Supplies,Notebook Pack,5,12.99,5.5,C1021,Cash
+ORD0139,2025-06-12,West,Office Supplies,Notebook Pack,8,12.99,5.5,C1046,Cash
+ORD0194,2025-06-16,North,Office Supplies,Pen Set,2,9.99,3.5,C1057,Debit Card
+ORD0218,2025-06-20,South,Office Supplies,Desk Organizer,2,18.99,8.0,C1038,PayPal
+ORD0083,2025-06-22,South,Electronics,Webcam,7,59.99,31.0,C1047,Cash
+ORD0086,2025-06-22,West,Office Supplies,Pen Set,7,9.99,3.5,C1018,PayPal
+ORD0098,2025-06-22,East,Office Supplies,Printer Paper,1,16.99,9.0,C1032,Debit Card
+ORD0032,2025-06-23,South,Electronics,Webcam,2,59.99,31.0,C1016,Debit Card
+ORD0205,2025-06-23,South,Office Supplies,Pen Set,4,9.99,3.5,C1022,Credit Card
+ORD0005,2025-06-24,South,Electronics,Webcam,5,59.99,31.0,C1010,PayPal
+ORD0061,2025-06-26,North,Electronics,Webcam,6,59.99,31.0,C1028,Cash
+ORD0242,2025-06-26,North,Office Supplies,Notebook Pack,4,12.99,5.5,C1047,PayPal
+ORD0093,2025-06-27,East,Home,Desk Lamp,7,29.99,14.0,C1043,Credit Card
+ORD0125,2025-06-28,East,Electronics,Webcam,7,59.99,31.0,C1022,Credit Card
+ORD0081,2025-06-30,West,Office Supplies,Notebook Pack,5,12.99,5.5,C1049,Cash
+ORD0188,2025-06-30,South,Office Supplies,Pen Set,2,9.99,3.5,C1037,Debit Card
+ORD0211,2025-06-30,West,Home,Desk Lamp,2,29.99,14.0,C1020,Cash
+ORD0243,2025-06-30,South,Electronics,Wireless Mouse,6,24.99,12.5,C1053,Cash
+ORD0099,2025-07-01,East,Office Supplies,Desk Organizer,5,18.99,8.0,C1022,PayPal
+ORD0063,2025-07-06,East,Home,Water Bottle,7,19.99,7.5,C1005,PayPal
+ORD0090,2025-07-08,North,Home,Coffee Mug,3,14.99,5.0,C1039,Debit Card
+ORD0212,2025-07-08,North,Electronics,Wireless Mouse,5,24.99,12.5,C1005,Cash
+ORD0248,2025-07-08,West,Office Supplies,Notebook Pack,7,12.99,5.5,C1057,Cash
+ORD0186,2025-07-10,North,Office Supplies,Notebook Pack,3,12.99,5.5,C1036,PayPal
+ORD0229,2025-07-10,North,Home,Storage Box,2,22.99,10.0,C1046,PayPal
+ORD0193,2025-07-12,East,Electronics,Keyboard,7,39.99,20.0,C1030,Debit Card
+ORD0006,2025-07-14,East,Electronics,Wireless Mouse,2,24.99,12.5,C1023,PayPal
+ORD0012,2025-07-14,South,Electronics,Webcam,5,59.99,31.0,C1060,PayPal
+ORD0036,2025-07-14,East,Electronics,Keyboard,1,39.99,20.0,C1025,Cash
+ORD0153,2025-07-15,East,Electronics,Keyboard,6,39.99,20.0,C1037,PayPal
+ORD0216,2025-07-18,East,Office Supplies,Pen Set,7,9.99,3.5,C1050,Credit Card
+ORD0084,2025-07-21,West,Electronics,Wireless Mouse,1,24.99,12.5,C1006,Debit Card
+ORD0030,2025-07-28,North,Electronics,Webcam,4,59.99,31.0,C1007,Cash
+ORD0035,2025-07-28,South,Electronics,Keyboard,8,39.99,20.0,C1031,Cash
+ORD0031,2025-07-30,North,Office Supplies,Printer Paper,8,16.99,9.0,C1056,Credit Card
+ORD0126,2025-07-30,West,Electronics,USB-C Hub,8,34.99,18.0,C1019,Credit Card
+ORD0187,2025-07-30,West,Home,Desk Lamp,6,29.99,14.0,C1056,Credit Card
+ORD0158,2025-08-01,South,Office Supplies,Pen Set,3,9.99,3.5,C1013,PayPal
+ORD0196,2025-08-01,North,Office Supplies,Printer Paper,5,16.99,9.0,C1014,PayPal
+ORD0118,2025-08-06,South,Home,Water Bottle,2,19.99,7.5,C1035,Debit Card
+ORD0190,2025-08-08,East,Office Supplies,Desk Organizer,1,18.99,8.0,C1039,Credit Card
+ORD0052,2025-08-09,East,Office Supplies,Desk Organizer,3,18.99,8.0,C1003,PayPal
+ORD0067,2025-08-09,West,Office Supplies,Desk Organizer,6,18.99,8.0,C1030,Cash
+ORD0026,2025-08-13,South,Home,Coffee Mug,8,14.99,5.0,C1008,Debit Card
+ORD0121,2025-08-13,North,Home,Storage Box,2,22.99,10.0,C1039,Cash
+ORD0034,2025-08-15,North,Electronics,Wireless Mouse,2,24.99,12.5,C1004,Credit Card
+ORD0169,2025-08-16,East,Electronics,Webcam,4,59.99,31.0,C1055,Credit Card
+ORD0235,2025-08-18,North,Home,Storage Box,1,22.99,10.0,C1058,Credit Card
+ORD0113,2025-08-19,West,Home,Storage Box,8,22.99,10.0,C1020,PayPal
+ORD0116,2025-08-19,North,Electronics,Webcam,8,59.99,31.0,C1019,Debit Card
+ORD0213,2025-08-19,West,Office Supplies,Notebook Pack,4,12.99,5.5,C1021,Debit Card
+ORD0231,2025-08-19,North,Electronics,Keyboard,6,39.99,20.0,C1060,Cash
+ORD0010,2025-08-21,East,Office Supplies,Pen Set,6,9.99,3.5,C1011,PayPal
+ORD0162,2025-08-21,East,Office Supplies,Notebook Pack,6,12.99,5.5,C1044,Cash
+ORD0171,2025-08-21,South,Electronics,Wireless Mouse,2,24.99,12.5,C1043,Credit Card
+ORD0182,2025-08-21,North,Home,Coffee Mug,7,14.99,5.0,C1007,Debit Card
+ORD0152,2025-08-22,West,Home,Coffee Mug,5,14.99,5.0,C1013,Cash
+ORD0150,2025-08-24,North,Office Supplies,Pen Set,5,9.99,3.5,C1043,Cash
+ORD0227,2025-08-25,West,Home,Storage Box,5,22.99,10.0,C1050,Cash
+ORD0074,2025-08-26,West,Office Supplies,Desk Organizer,6,18.99,8.0,C1049,Cash
+ORD0120,2025-08-28,West,Office Supplies,Notebook Pack,5,12.99,5.5,C1045,PayPal
+ORD0210,2025-08-29,East,Office Supplies,Notebook Pack,8,12.99,5.5,C1041,PayPal
+ORD0134,2025-08-30,South,Office Supplies,Printer Paper,4,16.99,9.0,C1030,Cash
+ORD0089,2025-08-31,South,Electronics,Keyboard,2,39.99,20.0,C1037,Cash
+ORD0103,2025-08-31,East,Home,Coffee Mug,6,14.99,5.0,C1028,PayPal
+ORD0177,2025-09-01,East,Home,Desk Lamp,8,29.99,14.0,C1050,Credit Card
+ORD0082,2025-09-07,West,Home,Water Bottle,4,19.99,7.5,C1018,Cash
+ORD0168,2025-09-08,North,Home,Desk Lamp,7,29.99,14.0,C1018,PayPal
+ORD0111,2025-09-09,North,Electronics,Webcam,2,59.99,31.0,C1037,Debit Card
+ORD0180,2025-09-09,North,Home,Desk Lamp,8,29.99,14.0,C1005,PayPal
+ORD0140,2025-09-11,East,Home,Water Bottle,1,19.99,7.5,C1009,Credit Card
+ORD0039,2025-09-15,North,Electronics,Webcam,3,59.99,31.0,C1004,Debit Card
+ORD0232,2025-09-15,West,Electronics,Webcam,6,59.99,31.0,C1016,Credit Card
+ORD0044,2025-09-17,East,Home,Water Bottle,5,19.99,7.5,C1009,Credit Card
+ORD0068,2025-09-19,South,Home,Water Bottle,8,19.99,7.5,C1051,Credit Card
+ORD0100,2025-09-22,South,Home,Desk Lamp,4,29.99,14.0,C1006,Cash
+ORD0076,2025-09-24,South,Home,Coffee Mug,8,14.99,5.0,C1041,PayPal
+ORD0240,2025-09-26,North,Home,Desk Lamp,6,29.99,14.0,C1005,Cash
+ORD0141,2025-09-27,South,Office Supplies,Notebook Pack,8,12.99,5.5,C1001,Cash
+ORD0018,2025-09-28,North,Office Supplies,Printer Paper,5,16.99,9.0,C1036,Credit Card
+ORD0206,2025-09-29,East,Home,Desk Lamp,4,29.99,14.0,C1058,PayPal
+ORD0007,2025-10-02,West,Electronics,Webcam,2,59.99,31.0,C1060,Credit Card
+ORD0137,2025-10-03,East,Electronics,Webcam,8,59.99,31.0,C1023,Cash
+ORD0144,2025-10-05,North,Office Supplies,Printer Paper,1,16.99,9.0,C1040,Debit Card
+ORD0170,2025-10-06,West,Home,Coffee Mug,6,14.99,5.0,C1004,PayPal
+ORD0130,2025-10-09,East,Electronics,USB-C Hub,3,34.99,18.0,C1060,Cash
+ORD0132,2025-10-10,South,Office Supplies,Notebook Pack,7,12.99,5.5,C1006,Credit Card
+ORD0047,2025-10-11,East,Electronics,Wireless Mouse,3,24.99,12.5,C1018,Debit Card
+ORD0065,2025-10-11,West,Office Supplies,Pen Set,3,9.99,3.5,C1013,Cash
+ORD0108,2025-10-11,South,Electronics,Wireless Mouse,5,24.99,12.5,C1045,Cash
+ORD0161,2025-10-13,West,Home,Storage Box,6,22.99,10.0,C1006,Credit Card
+ORD0148,2025-10-17,South,Electronics,Webcam,3,59.99,31.0,C1011,Credit Card
+ORD0109,2025-10-21,West,Electronics,Wireless Mouse,5,24.99,12.5,C1031,Cash
+ORD0202,2025-10-21,West,Office Supplies,Printer Paper,7,16.99,9.0,C1046,PayPal
+ORD0038,2025-10-24,East,Electronics,Wireless Mouse,1,24.99,12.5,C1048,Credit Card
+ORD0091,2025-10-24,East,Office Supplies,Notebook Pack,1,12.99,5.5,C1060,Cash
+ORD0157,2025-10-24,South,Office Supplies,Notebook Pack,6,12.99,5.5,C1047,Credit Card
+ORD0173,2025-10-28,South,Home,Water Bottle,4,19.99,7.5,C1053,PayPal
+ORD0238,2025-11-02,South,Electronics,Webcam,1,59.99,31.0,C1041,Debit Card
+ORD0022,2025-11-03,North,Home,Desk Lamp,6,29.99,14.0,C1032,Credit Card
+ORD0198,2025-11-03,South,Electronics,Webcam,1,59.99,31.0,C1001,PayPal
+ORD0122,2025-11-06,North,Home,Coffee Mug,5,14.99,5.0,C1002,Debit Card
+ORD0228,2025-11-06,East,Electronics,Keyboard,3,39.99,20.0,C1056,Credit Card
+ORD0155,2025-11-07,South,Office Supplies,Desk Organizer,6,18.99,8.0,C1015,PayPal
+ORD0114,2025-11-09,South,Home,Desk Lamp,2,29.99,14.0,C1049,Debit Card
+ORD0178,2025-11-11,East,Office Supplies,Desk Organizer,1,18.99,8.0,C1047,Cash
+ORD0066,2025-11-12,North,Home,Water Bottle,5,19.99,7.5,C1026,PayPal
+ORD0096,2025-11-12,West,Electronics,USB-C Hub,8,34.99,18.0,C1030,PayPal
+ORD0223,2025-11-13,West,Home,Coffee Mug,3,14.99,5.0,C1039,Debit Card
+ORD0041,2025-11-14,East,Home,Desk Lamp,2,29.99,14.0,C1027,PayPal
+ORD0054,2025-11-14,South,Home,Storage Box,3,22.99,10.0,C1060,Debit Card
+ORD0149,2025-11-14,South,Home,Storage Box,4,22.99,10.0,C1032,Debit Card
+ORD0129,2025-11-15,West,Home,Coffee Mug,8,14.99,5.0,C1041,Credit Card
+ORD0008,2025-11-18,South,Home,Coffee Mug,6,14.99,5.0,C1037,Credit Card
+ORD0156,2025-11-18,North,Home,Water Bottle,2,19.99,7.5,C1058,PayPal
+ORD0071,2025-11-19,West,Office Supplies,Printer Paper,4,16.99,9.0,C1046,Cash
+ORD0244,2025-11-20,South,Home,Storage Box,3,22.99,10.0,C1052,Credit Card
+ORD0049,2025-11-21,East,Electronics,Wireless Mouse,7,24.99,12.5,C1054,Credit Card
+ORD0095,2025-11-22,South,Office Supplies,Pen Set,8,9.99,3.5,C1046,Cash
+ORD0241,2025-11-22,East,Office Supplies,Notebook Pack,7,12.99,5.5,C1024,Credit Card
+ORD0021,2025-11-24,East,Home,Coffee Mug,4,14.99,5.0,C1010,Debit Card
+ORD0019,2025-11-25,East,Home,Coffee Mug,6,14.99,5.0,C1008,Cash
+ORD0220,2025-11-27,East,Electronics,Wireless Mouse,7,24.99,12.5,C1033,Credit Card
+ORD0133,2025-11-28,East,Office Supplies,Notebook Pack,3,12.99,5.5,C1032,PayPal
+ORD0164,2025-11-28,West,Home,Water Bottle,2,19.99,7.5,C1041,PayPal
+ORD0143,2025-11-29,East,Home,Storage Box,2,22.99,10.0,C1055,Cash
+ORD0208,2025-12-02,West,Electronics,Keyboard,2,39.99,20.0,C1012,Cash
+ORD0128,2025-12-03,North,Home,Desk Lamp,8,29.99,14.0,C1027,Debit Card
+ORD0046,2025-12-06,South,Home,Coffee Mug,2,14.99,5.0,C1057,PayPal
+ORD0167,2025-12-10,South,Office Supplies,Pen Set,7,9.99,3.5,C1038,Cash
+ORD0123,2025-12-11,North,Home,Desk Lamp,5,29.99,14.0,C1037,Debit Card
+ORD0040,2025-12-12,North,Electronics,Wireless Mouse,4,24.99,12.5,C1026,Debit Card
+ORD0195,2025-12-12,West,Electronics,Wireless Mouse,2,24.99,12.5,C1018,Cash
+ORD0002,2025-12-13,West,Home,Desk Lamp,2,29.99,14.0,C1038,Credit Card
+ORD0225,2025-12-13,East,Office Supplies,Pen Set,4,9.99,3.5,C1029,Cash
+ORD0017,2025-12-15,North,Electronics,Keyboard,7,39.99,20.0,C1039,Cash
+ORD0209,2025-12-15,East,Home,Storage Box,6,22.99,10.0,C1056,Debit Card
+ORD0101,2025-12-20,West,Office Supplies,Desk Organizer,8,18.99,8.0,C1042,Cash
+ORD0224,2025-12-21,West,Electronics,Keyboard,3,39.99,20.0,C1047,Credit Card
+ORD0146,2025-12-22,North,Office Supplies,Desk Organizer,5,18.99,8.0,C1058,Credit Card
+ORD0037,2025-12-23,South,Office Supplies,Printer Paper,8,16.99,9.0,C1010,PayPal
+ORD0073,2025-12-23,South,Electronics,Keyboard,8,39.99,20.0,C1004,Credit Card
+ORD0011,2025-12-26,South,Electronics,USB-C Hub,2,34.99,18.0,C1039,Debit Card
+ORD0117,2025-12-26,South,Office Supplies,Pen Set,8,9.99,3.5,C1005,PayPal
+ORD0191,2025-12-26,East,Electronics,USB-C Hub,5,34.99,18.0,C1059,PayPal
+ORD0215,2025-12-29,South,Electronics,Keyboard,8,39.99,20.0,C1029,PayPal
